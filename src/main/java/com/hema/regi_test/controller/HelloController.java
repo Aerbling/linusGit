@@ -18,6 +18,7 @@ public class HelloController {
     public String hello(){
         System.out.println("hello world");
         System.out.println("see you again");
+        System.out.println("在这个世界里，如果你有太多的抱怨");
         return "Ok";
     }
 
